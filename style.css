@@ -1,123 +1,16 @@
 body {
-  background: rgb(2, 0, 36);
+  background-image: url('https://files.enderman.ch/wallpapers/Reflection 2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
   overflow: hidden;
 }
-.carmelo {
-  background-color: #00b894;
-  border: 8px solid #117b63;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  transition: transform 2s;  
-}
-.carmelo:hover {
-  transition: .1s;
-  transform: translateY(-1px);
-  transform: perspective(200px) rotateX(40deg);
-}
-.rediblesky {
-  background-color: #fd6a6b;
-  border: 8px solid #e15758;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  transition: transform 2s;  
-}
-.rediblesky:hover {
-  transition: .1s;
-  transform: translateY(-1px);
-  transform: perspective(200px) rotateX(40deg);
-}
-.orcapet {
-  background-color: #afafaf;
-  border: 8px solid #76767f;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  transition: transform 2s;  
-}
-.orcapet:hover {
-  transition: .1s;
-  transform: translateY(-1px);
-  transform: perspective(200px) rotateX(40deg);
-}
-.winbo {
-  background-color: yellow;
-  border: 8px solid #8B8000;
-  color: black;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  transition: transform 2s;
-}
-.winbo:hover {
-  transition: .1s;
-  transform: translateY(-1px);
-  transform: perspective(200px) rotateX(40deg);
-}
-.eryquicc {
-  background-color: #117b63;
-  border: 8px solid #0b4e3f;
-  color: black;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  transition: transform 2s;
-}
-.eryquicc:hover {
-  transition: .1s;
-  transform: translateY(-1px);
-  transform: perspective(200px) rotateX(40deg);
-}
-.steeldev{
-  background-color: blue;
-  border: 8px solid darkblue;
-  color: black;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  transition: transform 2s;
-}
-.steeldev:hover{
-  transition: .1s;
-  transform: translateY(-10px);
-  transform: perspective(200px) rotateX(40deg);
-}
-.polishboiyt{
-  background-color: #007cff;
-  border: 8px solid #0036ff;
-  color: black;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  transition: transform 2s;
-}
-.polishboiyt:hover{
-  transition: .1s;
-  transform: translateY(-10px);
-  transform: perspective(200px) rotateX(40deg);
-}
+
 h1 {
   color: white;
   font-family: 'Roboto', sans-serif;
 }
+
 h2 {
   color: white;
   font-family: 'Roboto', sans-serif;
@@ -137,11 +30,6 @@ bold {
   display: flex;
   align-items: center;
   justify-content: center;
-}
-
-footer {
-  color: white;
-  font-family: 'Roboto', sans-serif;
 }
 
 .toaster {
